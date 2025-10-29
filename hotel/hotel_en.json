@@ -1,0 +1,883 @@
+{
+  "hotel_language_add_italy_header": "Welcoming Tourists from Italy",
+  "hotel_language_add_italy_title": "You’re taking the first step towards welcoming Italian tourists!",
+  "hotel_language_add_italy_description": "By presenting your hotel in Italian, you can attract visitors from Italy. Italian tourists usually appreciate a warm atmosphere, high-quality food, and local experiences.",
+  "hotel_language_add_italy_tip": "Tip: Use a passionate and friendly tone to highlight the authentic dining options, comfort, and hospitality your hotel offers.",
+
+  "hotel_language_add_china_header": "Welcoming Tourists from China",
+  "hotel_language_add_china_title": "You’re taking the first step towards welcoming Chinese tourists!",
+  "hotel_language_add_china_description": "By providing a description of your hotel in Chinese, you can highlight the unique offerings and amenities that will appeal to Chinese travelers. Comfort, dining options, and especially shopping conveniences are important to Chinese tourists.",
+  "hotel_language_add_china_tip": "Tip: Focus on modern services, high quality, and experiences that are in harmony with the local culture.",
+
+  "hotel_language_add_albania_header": "Welcoming Tourists from Albania",
+  "hotel_language_add_albania_title": "You’re taking the first step towards attracting Albanian tourists!",
+  "hotel_language_add_albania_description": "By describing your hotel in Albanian, you can appeal to visitors from Albania who value warm hospitality, cleanliness, and a family-oriented atmosphere. Many Albanian tourists enjoy hotels that feel welcoming and offer authentic local food.",
+  "hotel_language_add_albania_tip": "Tip: Use a friendly and family-oriented tone, emphasizing your hotel’s warm service, cleanliness, and genuine hospitality.",
+
+  "hotel_language_add_algeria_header": "Welcoming Tourists from Algeria",
+  "hotel_language_add_algeria_title": "You’re taking the first step towards welcoming Algerian tourists!",
+  "hotel_language_add_algeria_description": "By providing information in Arabic or French, you can appeal to Algerian travelers who often appreciate privacy, cleanliness, and halal-friendly options. Comfort and respect for cultural values are key.",
+  "hotel_language_add_algeria_tip": "Tip: Emphasize privacy, family-friendly amenities, and dining options that respect Muslim preferences.",
+
+  "hotel_language_add_angola_header": "Welcoming Tourists from Angola",
+  "hotel_language_add_angola_title": "You’re taking the first step towards attracting Angolan tourists!",
+  "hotel_language_add_angola_description": "By writing your hotel’s description in Portuguese, you can connect with Angolan visitors who appreciate good service, lively environments, and modern facilities. Spacious rooms and attentive staff are important for them.",
+  "hotel_language_add_angola_tip": "Tip: Highlight your hotel’s modern design, comfort, and entertainment options to attract Angolan travelers.",
+
+  "hotel_language_add_antigua_barbuda_header": "Welcoming Tourists from Antigua & Barbuda",
+  "hotel_language_add_antigua_barbuda_title": "You’re taking the first step towards attracting Caribbean tourists!",
+  "hotel_language_add_antigua_barbuda_description": "Visitors from Antigua & Barbuda often enjoy vibrant, beachside atmospheres and personalized service. Highlight your hotel’s scenic views, relaxing environment, and hospitality.",
+  "hotel_language_add_antigua_barbuda_tip": "Tip: Use an easygoing and cheerful tone, focusing on your hotel’s beauty, relaxation, and friendly staff.",
+
+  "hotel_language_add_argentina_header": "Welcoming Tourists from Argentina",
+  "hotel_language_add_argentina_title": "You’re taking the first step towards attracting Argentine tourists!",
+  "hotel_language_add_argentina_description": "By presenting your hotel in Spanish, you can appeal to Argentine visitors who appreciate lively atmospheres, great food, and social experiences. Good hospitality and charm matter most.",
+  "hotel_language_add_argentina_tip": "Tip: Highlight local dining, nightlife, and warm, social service to attract Argentine travelers.",
+
+  "hotel_language_add_armenia_header": "Welcoming Tourists from Armenia",
+  "hotel_language_add_armenia_title": "You’re taking the first step towards attracting Armenian tourists!",
+  "hotel_language_add_armenia_description": "Armenian tourists appreciate comfort, cleanliness, and a welcoming family-like environment. Writing a description in Armenian helps you connect with them on a personal level.",
+  "hotel_language_add_armenia_tip": "Tip: Use a warm and respectful tone, emphasizing your hotel’s comfort, family-friendly approach, and hospitality.",
+
+  "hotel_language_add_aruba_header": "Welcoming Tourists from Aruba",
+  "hotel_language_add_aruba_title": "You’re taking the first step towards attracting tourists from Aruba!",
+  "hotel_language_add_aruba_description": "Aruban travelers often seek relaxed, scenic destinations that offer high-quality service and a tropical feel. Comfort and a welcoming attitude are key for them.",
+  "hotel_language_add_aruba_tip": "Tip: Highlight relaxation, great views, and friendly service to appeal to visitors from Aruba.",
+
+  "hotel_language_add_australia_header": "Welcoming Tourists from Australia",
+  "hotel_language_add_australia_title": "You’re taking the first step towards attracting Australian tourists!",
+  "hotel_language_add_australia_description": "Australian tourists love convenience, adventure, and authenticity. By offering your hotel details in English, you can appeal to travelers who value friendliness and straightforward service.",
+  "hotel_language_add_australia_tip": "Tip: Use an approachable tone and highlight outdoor activities, comfort, and easy-going hospitality.",
+
+  "hotel_language_add_austria_header": "Welcoming Tourists from Austria",
+  "hotel_language_add_austria_title": "You’re taking the first step towards attracting Austrian tourists!",
+  "hotel_language_add_austria_description": "Austrian visitors often appreciate order, comfort, and high service quality. Writing in German helps build trust and shows attention to detail.",
+  "hotel_language_add_austria_tip": "Tip: Emphasize cleanliness, efficiency, and peaceful surroundings to appeal to Austrian travelers.",
+
+  "hotel_language_add_azerbaijan_header": "Welcoming Tourists from Azerbaijan",
+  "hotel_language_add_azerbaijan_title": "You’re taking the first step towards attracting Azerbaijani tourists!",
+  "hotel_language_add_azerbaijan_description": "Azerbaijani visitors appreciate luxury, comfort, and respectful hospitality. Writing your hotel description in Azerbaijani can make them feel valued and welcome.",
+  "hotel_language_add_azerbaijan_tip": "Tip: Highlight your hotel’s elegance, private amenities, and cultural friendliness.",
+
+  "hotel_language_add_bahamas_header": "Welcoming Tourists from the Bahamas",
+  "hotel_language_add_bahamas_title": "You’re taking the first step towards attracting Bahamian tourists!",
+  "hotel_language_add_bahamas_description": "Travelers from the Bahamas value comfort, style, and personalized service. They often look for relaxing stays with entertainment and scenic surroundings.",
+  "hotel_language_add_bahamas_tip": "Tip: Use a warm, tropical tone and emphasize your hotel’s relaxation, entertainment, and comfort.",
+
+  "hotel_language_add_bahrain_header": "Welcoming Tourists from Bahrain",
+  "hotel_language_add_bahrain_title": "You’re taking the first step towards attracting Bahraini tourists!",
+  "hotel_language_add_bahrain_description": "Bahraini tourists appreciate luxury, privacy, and top-notch service. Writing in Arabic helps you connect with them and show cultural respect.",
+  "hotel_language_add_bahrain_tip": "Tip: Emphasize exclusivity, comfort, and premium amenities with an elegant and respectful tone.",
+
+  "hotel_language_add_bangladesh_header": "Welcoming Tourists from Bangladesh",
+  "hotel_language_add_bangladesh_title": "You’re taking the first step towards attracting Bangladeshi tourists!",
+  "hotel_language_add_bangladesh_description": "Bangladeshi travelers value hospitality, cleanliness, and convenience. Providing a hotel description in Bengali shows warmth and care for their comfort.",
+  "hotel_language_add_bangladesh_tip": "Tip: Use a respectful and family-oriented tone, highlighting cleanliness, food, and comfort.",
+
+  "hotel_language_add_belarus_header": "Welcoming Tourists from Belarus",
+  "hotel_language_add_belarus_title": "You’re taking the first step towards attracting Belarusian tourists!",
+  "hotel_language_add_belarus_description": "Belarusian visitors appreciate well-maintained hotels, security, and good value. Writing in Russian or Belarusian helps build trust and connection.",
+  "hotel_language_add_belarus_tip": "Tip: Emphasize safety, cleanliness, and comfort in a calm and professional tone.",
+
+  "hotel_language_add_belgium_header": "Welcoming Tourists from Belgium",
+  "hotel_language_add_belgium_title": "You’re taking the first step towards attracting Belgian tourists!",
+  "hotel_language_add_belgium_description": "Belgian travelers value culture, good food, and high-quality service. Providing information in French or Dutch can make them feel more comfortable and engaged.",
+  "hotel_language_add_belgium_tip": "Tip: Highlight your hotel’s gastronomy, attention to detail, and relaxed atmosphere.",
+
+  "hotel_language_add_belize_header": "Welcoming Tourists from Belize",
+  "hotel_language_add_belize_title": "You’re taking the first step towards attracting Belizean tourists!",
+  "hotel_language_add_belize_description": "Belizean visitors appreciate friendly hospitality, relaxation, and affordable comfort. A laid-back tone and welcoming attitude will make them feel at home.",
+  "hotel_language_add_belize_tip": "Tip: Use a warm, easygoing tone to emphasize friendly service, comfort, and affordability.",
+
+  "hotel_language_add_benin_header": "Welcoming Tourists from Benin",
+  "hotel_language_add_benin_title": "You’re taking the first step towards attracting tourists from Benin!",
+  "hotel_language_add_benin_description": "Visitors from Benin appreciate warm hospitality, cleanliness, and a culturally rich experience. By providing a French-language description, you can make them feel welcome and respected.",
+  "hotel_language_add_benin_tip": "Tip: Use a friendly and respectful tone, highlighting your hotel’s comfort, service quality, and cultural authenticity.",
+
+  "hotel_language_add_bermuda_header": "Welcoming Tourists from Bermuda",
+  "hotel_language_add_bermuda_title": "You’re taking the first step towards attracting Bermudian tourists!",
+  "hotel_language_add_bermuda_description": "Bermudian travelers enjoy high-quality service, comfort, and scenic beauty. They often look for quiet, elegant places that offer relaxation and fine dining.",
+  "hotel_language_add_bermuda_tip": "Tip: Emphasize relaxation, premium service, and a calm, sophisticated environment.",
+
+  "hotel_language_add_bolivia_header": "Welcoming Tourists from Bolivia",
+  "hotel_language_add_bolivia_title": "You’re taking the first step towards attracting Bolivian tourists!",
+  "hotel_language_add_bolivia_description": "By offering your hotel’s description in Spanish, you can reach Bolivian travelers who appreciate cultural authenticity, warmth, and good value for money.",
+  "hotel_language_add_bolivia_tip": "Tip: Use a welcoming tone, focusing on comfort, cleanliness, and friendly service.",
+
+  "hotel_language_add_bosnia_herzegovina_header": "Welcoming Tourists from Bosnia & Herzegovina",
+  "hotel_language_add_bosnia_herzegovina_title": "You’re taking the first step towards attracting Bosnian tourists!",
+  "hotel_language_add_bosnia_herzegovina_description": "Bosnian visitors appreciate family-oriented service, hospitality, and authentic local food. Providing a description in Bosnian can create a stronger connection.",
+  "hotel_language_add_bosnia_herzegovina_tip": "Tip: Use a warm and family-friendly tone, emphasizing good food, hospitality, and comfort.",
+
+  "hotel_language_add_botswana_header": "Welcoming Tourists from Botswana",
+  "hotel_language_add_botswana_title": "You’re taking the first step towards attracting tourists from Botswana!",
+  "hotel_language_add_botswana_description": "Travelers from Botswana appreciate modern comfort, nature-friendly experiences, and safety. A personalized and respectful approach is highly valued.",
+  "hotel_language_add_botswana_tip": "Tip: Highlight your hotel’s safety, service quality, and connection to nature.",
+
+  "hotel_language_add_brazil_header": "Welcoming Tourists from Brazil",
+  "hotel_language_add_brazil_title": "You’re taking the first step towards attracting Brazilian tourists!",
+  "hotel_language_add_brazil_description": "By presenting your hotel in Portuguese, you can appeal to Brazilian visitors who love lively atmospheres, social experiences, and excellent hospitality.",
+  "hotel_language_add_brazil_tip": "Tip: Use a warm and enthusiastic tone, emphasizing friendliness, local culture, and great food.",
+
+  "hotel_language_add_british_virgin_islands_header": "Welcoming Tourists from the British Virgin Islands",
+  "hotel_language_add_british_virgin_islands_title": "You’re taking the first step towards attracting Caribbean tourists!",
+  "hotel_language_add_british_virgin_islands_description": "Visitors from the British Virgin Islands often seek comfortable and scenic stays, high-quality service, and a relaxing environment.",
+  "hotel_language_add_british_virgin_islands_tip": "Tip: Emphasize the beauty, tranquility, and comfort of your hotel.",
+
+  "hotel_language_add_bulgaria_header": "Welcoming Tourists from Bulgaria",
+  "hotel_language_add_bulgaria_title": "You’re taking the first step towards attracting Bulgarian tourists!",
+  "hotel_language_add_bulgaria_description": "Bulgarian travelers appreciate comfort, cleanliness, and good value for money. Writing in Bulgarian shows care and cultural respect.",
+  "hotel_language_add_bulgaria_tip": "Tip: Highlight comfort, affordability, and authentic hospitality in a friendly tone.",
+
+  "hotel_language_add_burkina_faso_header": "Welcoming Tourists from Burkina Faso",
+  "hotel_language_add_burkina_faso_title": "You’re taking the first step towards attracting tourists from Burkina Faso!",
+  "hotel_language_add_burkina_faso_description": "By describing your hotel in French, you can connect with visitors from Burkina Faso who value simplicity, safety, and respectful hospitality.",
+  "hotel_language_add_burkina_faso_tip": "Tip: Use a polite and welcoming tone, focusing on comfort and kindness.",
+
+  "hotel_language_add_cambodia_header": "Welcoming Tourists from Cambodia",
+  "hotel_language_add_cambodia_title": "You’re taking the first step towards attracting Cambodian tourists!",
+  "hotel_language_add_cambodia_description": "Cambodian travelers often seek peaceful environments, friendly service, and affordable comfort. A translation in Khmer helps them feel respected and welcomed.",
+  "hotel_language_add_cambodia_tip": "Tip: Emphasize warmth, simplicity, and calm surroundings in your tone.",
+
+  "hotel_language_add_cameroon_header": "Welcoming Tourists from Cameroon",
+  "hotel_language_add_cameroon_title": "You’re taking the first step towards attracting Cameroonian tourists!",
+  "hotel_language_add_cameroon_description": "Cameroonian tourists value friendliness, cultural respect, and cleanliness. A French-language description helps you reach them effectively.",
+  "hotel_language_add_cameroon_tip": "Tip: Highlight your hotel’s service quality, good food, and welcoming staff.",
+
+  "hotel_language_add_canada_header": "Welcoming Tourists from Canada",
+  "hotel_language_add_canada_title": "You’re taking the first step towards attracting Canadian tourists!",
+  "hotel_language_add_canada_description": "Canadian visitors appreciate reliability, comfort, and friendliness. They value detailed information and accessible services. Providing both English and French versions is a plus.",
+  "hotel_language_add_canada_tip": "Tip: Use a professional but warm tone, highlighting comfort, service quality, and accessibility.",
+
+  "hotel_language_add_cape_verde_header": "Welcoming Tourists from Cape Verde",
+  "hotel_language_add_cape_verde_title": "You’re taking the first step towards attracting Cape Verdean tourists!",
+  "hotel_language_add_cape_verde_description": "Cape Verdean travelers often enjoy warm hospitality, cultural music, and comfort. Portuguese descriptions create familiarity and connection.",
+  "hotel_language_add_cape_verde_tip": "Tip: Highlight your hotel’s relaxing vibe, hospitality, and local culture.",
+
+  "hotel_language_add_cayman_islands_header": "Welcoming Tourists from the Cayman Islands",
+  "hotel_language_add_cayman_islands_title": "You’re taking the first step towards attracting Caymanian tourists!",
+  "hotel_language_add_cayman_islands_description": "Cayman Islands travelers look for luxurious comfort, privacy, and scenic beauty. High-quality service is essential to meet their expectations.",
+  "hotel_language_add_cayman_islands_tip": "Tip: Use a refined and elegant tone, emphasizing luxury, comfort, and privacy.",
+
+  "hotel_language_add_chad_header": "Welcoming Tourists from Chad",
+  "hotel_language_add_chad_title": "You’re taking the first step towards attracting tourists from Chad!",
+  "hotel_language_add_chad_description": "By writing a French-language description, you can reach Chadian travelers who appreciate safety, cleanliness, and respectful hospitality.",
+  "hotel_language_add_chad_tip": "Tip: Emphasize comfort, privacy, and attentive service with a polite tone.",
+
+  "hotel_language_add_chile_header": "Welcoming Tourists from Chile",
+  "hotel_language_add_chile_title": "You’re taking the first step towards attracting Chilean tourists!",
+  "hotel_language_add_chile_description": "Chilean travelers value cleanliness, comfort, and authenticity. By writing your hotel details in Spanish, you can better connect with them.",
+  "hotel_language_add_chile_tip": "Tip: Highlight good service, authentic experiences, and great food in a friendly tone.",
+
+  "hotel_language_add_colombia_header": "Welcoming Tourists from Colombia",
+  "hotel_language_add_colombia_title": "You’re taking the first step towards attracting Colombian tourists!",
+  "hotel_language_add_colombia_description": "Colombian tourists enjoy lively, social atmospheres, and great food. They value friendliness and a personal touch in hospitality.",
+  "hotel_language_add_colombia_tip": "Tip: Use a joyful and warm tone, emphasizing social spaces, cuisine, and comfort.",
+
+  "hotel_language_add_comoros_header": "Welcoming Tourists from Comoros",
+  "hotel_language_add_comoros_title": "You’re taking the first step towards attracting tourists from Comoros!",
+  "hotel_language_add_comoros_description": "By writing in Arabic or French, you can attract visitors from Comoros who value peace, privacy, and hospitality that aligns with their cultural values.",
+  "hotel_language_add_comoros_tip": "Tip: Highlight respect for cultural traditions, calm environments, and quality service.",
+
+  "hotel_language_add_congo_brazzaville_header": "Welcoming Tourists from Congo - Brazzaville",
+  "hotel_language_add_congo_brazzaville_title": "You’re taking the first step towards welcoming tourists from Congo - Brazzaville!",
+  "hotel_language_add_congo_brazzaville_description": "By describing your hotel in French, you can attract visitors from Congo - Brazzaville. They often value comfortable, secure environments and good local hospitality.",
+  "hotel_language_add_congo_brazzaville_tip": "Tip: Use a warm and welcoming tone, highlighting security, comfort, and friendly service that will appeal to visitors from Congo.",
+
+  "hotel_language_add_congo_kinshasa_header": "Welcoming Tourists from Congo - Kinshasa",
+  "hotel_language_add_congo_kinshasa_title": "You’re taking the first step towards attracting tourists from Congo - Kinshasa!",
+  "hotel_language_add_congo_kinshasa_description": "Write your hotel description in French to attract tourists from Congo - Kinshasa. They typically look for good value for money, clean rooms, and a friendly atmosphere.",
+  "hotel_language_add_congo_kinshasa_tip": "Tip: Use a welcoming and practical tone, emphasizing the value, comfort, and local cultural experiences that appeal to visitors.",
+
+  "hotel_language_add_costa_rica_header": "Welcoming Tourists from Costa Rica",
+  "hotel_language_add_costa_rica_title": "You’re taking the first step towards attracting Costa Rican tourists!",
+  "hotel_language_add_costa_rica_description": "By providing a description of your hotel in Spanish, you can appeal to Costa Rican visitors. They often appreciate eco-friendly hotels and immersive local experiences.",
+  "hotel_language_add_costa_rica_tip": "Tip: Highlight your hotel’s sustainability efforts, comfortable rooms, and access to nature and adventure activities that are popular in Costa Rica.",
+
+  "hotel_language_add_croatia_header": "Welcoming Tourists from Croatia",
+  "hotel_language_add_croatia_title": "You’re taking the first step towards attracting Croatian tourists!",
+  "hotel_language_add_croatia_description": "Croatian tourists value a mix of relaxation and adventure. They appreciate clean, modern accommodations and good access to beaches or nature attractions.",
+  "hotel_language_add_croatia_tip": "Tip: Use a warm and inviting tone, emphasizing the comfort, modern amenities, and scenic experiences your hotel provides.",
+
+  "hotel_language_add_cuba_header": "Welcoming Tourists from Cuba",
+  "hotel_language_add_cuba_title": "You’re taking the first step towards welcoming Cuban tourists!",
+  "hotel_language_add_cuba_description": "For Cuban tourists, hospitality, comfort, and affordability are key. Many prefer traditional or colonial-style accommodations with a focus on local culture.",
+  "hotel_language_add_cuba_tip": "Tip: Use an enthusiastic and friendly tone, highlighting local culture, comfort, and affordable rates that will appeal to Cuban travelers.",
+
+  "hotel_language_add_curacao_header": "Welcoming Tourists from Curaçao",
+  "hotel_language_add_curacao_title": "You’re taking the first step towards attracting tourists from Curaçao!",
+  "hotel_language_add_curacao_description": "Tourists from Curaçao often seek a relaxing, beach-oriented holiday with good local amenities. They appreciate luxury resorts that also focus on local culture and experiences.",
+  "hotel_language_add_curacao_tip": "Tip: Use a relaxed, luxurious tone to showcase your beachfront amenities, cultural offerings, and relaxed atmosphere.",
+
+  "hotel_language_add_cyprus_header": "Welcoming Tourists from Cyprus",
+  "hotel_language_add_cyprus_title": "You’re taking the first step towards attracting Cypriot tourists!",
+  "hotel_language_add_cyprus_description": "Cypriot visitors often seek a mix of luxury and family-friendly accommodations. They value both a good beach experience and opportunities to explore historical sites.",
+  "hotel_language_add_cyprus_tip": "Tip: Use a friendly and welcoming tone, emphasizing family-friendly features, luxury amenities, and easy access to local attractions.",
+
+  "hotel_language_add_czechia_header": "Welcoming Tourists from Czechia",
+  "hotel_language_add_czechia_title": "You’re taking the first step towards attracting Czech tourists!",
+  "hotel_language_add_czechia_description": "Czech tourists appreciate modern, comfortable hotels with a focus on high-quality service and cleanliness. They often enjoy local history, beer culture, and outdoor activities.",
+  "hotel_language_add_czechia_tip": "Tip: Use clear and precise language, emphasizing comfort, service quality, and local cultural experiences like local food and drink.",
+
+  "hotel_language_add_cote_d_ivoire_header": "Welcoming Tourists from Côte d’Ivoire",
+  "hotel_language_add_cote_d_ivoire_title": "You’re taking the first step towards welcoming tourists from Côte d’Ivoire!",
+  "hotel_language_add_cote_d_ivoire_description": "Tourists from Côte d’Ivoire appreciate comfortable accommodations with excellent service. They value safety, good food, and easy access to local attractions and culture.",
+  "hotel_language_add_cote_d_ivoire_tip": "Tip: Use a warm and welcoming tone, focusing on security, comfort, and delicious local cuisine to appeal to Ivorian travelers.",
+
+  "hotel_language_add_denmark_header": "Welcoming Tourists from Denmark",
+  "hotel_language_add_denmark_title": "You’re taking the first step towards attracting Danish tourists!",
+  "hotel_language_add_denmark_description": "Danish tourists value modern amenities, sustainability, and comfort. They appreciate eco-friendly accommodations and enjoy exploring nature and cultural attractions.",
+  "hotel_language_add_denmark_tip": "Tip: Emphasize your hotel’s sustainability efforts, modern design, and access to outdoor activities to appeal to Danish visitors.",
+
+  "hotel_language_add_djibouti_header": "Welcoming Tourists from Djibouti",
+  "hotel_language_add_djibouti_title": "You’re taking the first step towards attracting Djiboutian tourists!",
+  "hotel_language_add_djibouti_description": "Djiboutian tourists prefer hotels with great service, security, and comfortable accommodations. They appreciate places with proximity to local culture, nature, and historical sites.",
+  "hotel_language_add_djibouti_tip": "Tip: Highlight the comfort, security, and local cultural experiences your hotel offers, especially its proximity to nature and historical landmarks.",
+
+  "hotel_language_add_dominica_header": "Welcoming Tourists from Dominica",
+  "hotel_language_add_dominica_title": "You’re taking the first step towards attracting tourists from Dominica!",
+  "hotel_language_add_dominica_description": "Dominican tourists value comfort and relaxation, along with an authentic experience of local nature and culture. Hotels with eco-friendly practices are especially appealing.",
+  "hotel_language_add_dominica_tip": "Tip: Use a friendly tone, highlighting eco-friendly features, natural beauty, and the authentic local experiences your hotel offers.",
+
+  "hotel_language_add_dominican_republic_header": "Welcoming Tourists from the Dominican Republic",
+  "hotel_language_add_dominican_republic_title": "You’re taking the first step towards welcoming tourists from the Dominican Republic!",
+  "hotel_language_add_dominican_republic_description": "Tourists from the Dominican Republic often seek a mix of luxury and relaxation, with an emphasis on beautiful beaches and local culture. Offering all-inclusive packages is a big draw.",
+  "hotel_language_add_dominican_republic_tip": "Tip: Highlight beachfront amenities, all-inclusive options, and vibrant local experiences that appeal to Dominican travelers.",
+
+  "hotel_language_add_ecuador_header": "Welcoming Tourists from Ecuador",
+  "hotel_language_add_ecuador_title": "You’re taking the first step towards attracting Ecuadorian tourists!",
+  "hotel_language_add_ecuador_description": "Ecuadorian tourists value comfort and affordability. They enjoy staying at hotels with access to nature, outdoor activities, and opportunities to experience local culture.",
+  "hotel_language_add_ecuador_tip": "Tip: Use a warm tone and highlight eco-tourism, local culture, and the surrounding natural beauty that would appeal to Ecuadorian travelers.",
+
+  "hotel_language_add_egypt_header": "Welcoming Tourists from Egypt",
+  "hotel_language_add_egypt_title": "You’re taking the first step towards attracting Egyptian tourists!",
+  "hotel_language_add_egypt_description": "Egyptian tourists appreciate luxurious accommodations with high-quality service and excellent dining options. They often seek cultural experiences as well as relaxation.",
+  "hotel_language_add_egypt_tip": "Tip: Emphasize comfort, luxury services, and cultural experiences like local history, cuisine, and entertainment.",
+
+  "hotel_language_add_el_salvador_header": "Welcoming Tourists from El Salvador",
+  "hotel_language_add_el_salvador_title": "You’re taking the first step towards welcoming tourists from El Salvador!",
+  "hotel_language_add_el_salvador_description": "Salvadorans enjoy staying in hotels with good value for money. They often prefer safe, clean, and comfortable spaces, with easy access to local attractions.",
+  "hotel_language_add_el_salvador_tip": "Tip: Use a friendly and inviting tone, focusing on comfort, cleanliness, and good value for money.",
+
+  "hotel_language_add_eritrean_header": "Welcoming Tourists from Eritrea",
+  "hotel_language_add_eritrean_title": "You’re taking the first step towards attracting Eritrean tourists!",
+  "hotel_language_add_eritrean_description": "Eritrean tourists value safety, comfort, and cultural connections. They are often interested in hotels that offer excellent service and a welcoming atmosphere.",
+  "hotel_language_add_eritrean_tip": "Tip: Emphasize security, excellent service, and friendly hospitality to attract Eritrean travelers.",
+
+  "hotel_language_add_estonia_header": "Welcoming Tourists from Estonia",
+  "hotel_language_add_estonia_title": "You’re taking the first step towards attracting Estonian tourists!",
+  "hotel_language_add_estonia_description": "Estonian tourists typically appreciate modern amenities, nature-focused activities, and a quiet atmosphere. They value sustainability and eco-friendly options.",
+  "hotel_language_add_estonia_tip": "Tip: Highlight your hotel’s eco-friendly features, modern amenities, and peaceful surroundings that would appeal to Estonian travelers.",
+
+  "hotel_language_add_fiji_header": "Welcoming Tourists from Fiji",
+  "hotel_language_add_fiji_title": "You’re taking the first step towards attracting Fijian tourists!",
+  "hotel_language_add_fiji_description": "Fijian tourists often enjoy a blend of relaxation and adventure. They appreciate good service, beachfront amenities, and access to local traditions and culture.",
+  "hotel_language_add_fiji_tip": "Tip: Highlight luxury beachfront amenities, excellent service, and opportunities to explore the local culture and natural beauty.",
+
+  "hotel_language_add_finland_header": "Welcoming Tourists from Finland",
+  "hotel_language_add_finland_title": "You’re taking the first step towards welcoming Finnish tourists!",
+  "hotel_language_add_finland_description": "Finnish tourists value comfort, cleanliness, and a peaceful environment. They often enjoy exploring nature, as well as modern amenities and high-quality service.",
+  "hotel_language_add_finland_tip": "Tip: Use a calm and peaceful tone, emphasizing comfort, natural surroundings, and sustainability to appeal to Finnish visitors.",
+
+  "hotel_language_add_france_header": "Welcoming Tourists from France",
+  "hotel_language_add_france_title": "You’re taking the first step towards attracting French tourists!",
+  "hotel_language_add_france_description": "French tourists appreciate luxury, culture, and refinement. They are interested in staying in elegant hotels with personalized service, ideally located for exploring local culture and history.",
+  "hotel_language_add_france_tip": "Tip: Use a sophisticated and warm tone to emphasize luxury, personalized service, and cultural experiences.",
+
+  "hotel_language_add_gabon_header": "Welcoming Tourists from Gabon",
+  "hotel_language_add_gabon_title": "You’re taking the first step towards attracting Gabonese tourists!",
+  "hotel_language_add_gabon_description": "Gabonese tourists often appreciate clean, comfortable, and affordable accommodations with a focus on good service and access to local attractions.",
+  "hotel_language_add_gabon_tip": "Tip: Highlight comfort, cleanliness, and good local experiences, with a focus on excellent customer service.",
+
+  "hotel_language_add_gambia_header": "Welcoming Tourists from Gambia",
+  "hotel_language_add_gambia_title": "You’re taking the first step towards attracting Gambian tourists!",
+  "hotel_language_add_gambia_description": "Gambian tourists value affordable and comfortable accommodations. They appreciate friendly service, modern amenities, and access to both beaches and local cultural experiences.",
+  "hotel_language_add_gambia_tip": "Tip: Use a welcoming tone and highlight your hotel’s affordability, comfort, and accessibility to cultural and natural attractions.",
+
+  "hotel_language_add_georgia_header": "Welcoming Tourists from Georgia",
+  "hotel_language_add_georgia_title": "You’re taking the first step towards attracting Georgian tourists!",
+  "hotel_language_add_georgia_description": "Georgian tourists value good service, comfort, and affordable luxury. They are often interested in both historical sites and nature excursions.",
+  "hotel_language_add_georgia_tip": "Tip: Use an inviting tone to emphasize local experiences, comfort, and easy access to historical and natural attractions.",
+
+  "hotel_language_add_germany_header": "Welcoming Tourists from Germany",
+  "hotel_language_add_germany_title": "You’re taking the first step towards attracting German tourists!",
+  "hotel_language_add_germany_description": "German tourists value cleanliness, reliability, and excellent customer service. They often appreciate sustainability and good local food.",
+  "hotel_language_add_germany_tip": "Tip: Use a clear and precise tone, emphasizing cleanliness, sustainable practices, and excellent food options.",
+
+  "hotel_language_add_ghana_header": "Welcoming Tourists from Ghana",
+  "hotel_language_add_ghana_title": "You’re taking the first step towards attracting Ghanaian tourists!",
+  "hotel_language_add_ghana_description": "Ghanaian tourists appreciate comfort, safety, and access to local culture. They often look for hotels that offer a relaxed, welcoming atmosphere.",
+  "hotel_language_add_ghana_tip": "Tip: Use a friendly and warm tone, focusing on comfort, security, and cultural experiences that appeal to Ghanaian tourists.",
+
+  "hotel_language_add_gibraltar_header": "Welcoming Tourists from Gibraltar",
+  "hotel_language_add_gibraltar_title": "You’re taking the first step towards attracting tourists from Gibraltar!",
+  "hotel_language_add_gibraltar_description": "Tourists from Gibraltar often prefer high-quality service, luxury accommodations, and proximity to cultural landmarks. They appreciate cleanliness and modern amenities.",
+  "hotel_language_add_gibraltar_tip": "Tip: Highlight luxury, cleanliness, and the hotel’s proximity to cultural and historical attractions in Gibraltar.",
+
+  "hotel_language_add_greece_header": "Welcoming Tourists from Greece",
+  "hotel_language_add_greece_title": "You’re taking the first step towards attracting Greek tourists!",
+  "hotel_language_add_greece_description": "Greek tourists value warm hospitality, comfort, and modern amenities. They are interested in good local food, cultural experiences, and scenic locations.",
+  "hotel_language_add_greece_tip": "Tip: Use a welcoming tone, emphasizing comfort, excellent food, and access to local culture and nature.",
+
+  "hotel_language_add_grenada_header": "Welcoming Tourists from Grenada",
+  "hotel_language_add_grenada_title": "You’re taking the first step towards attracting Grenadian tourists!",
+  "hotel_language_add_grenada_description": "By describing your hotel in English for Grenadian visitors, you can attract Caribbean travelers who appreciate friendly hospitality, relaxation, and authentic local experiences.",
+  "hotel_language_add_grenada_tip": "Tip: Use a warm and easy-going tone emphasizing tropical vibes, friendly service, and local charm.",
+
+  "hotel_language_add_guatemala_header": "Welcoming Tourists from Guatemala",
+  "hotel_language_add_guatemala_title": "You’re taking the first step towards attracting Guatemalan tourists!",
+  "hotel_language_add_guatemala_description": "By presenting your hotel in Spanish, you can reach Guatemalan visitors who value cultural richness, warm service, and family-friendly environments.",
+  "hotel_language_add_guatemala_tip": "Tip: Use an inviting tone that highlights family comfort, good food, and cultural connections.",
+
+  "hotel_language_add_guinea_header": "Welcoming Tourists from Guinea",
+  "hotel_language_add_guinea_title": "You’re taking the first step towards attracting Guinean tourists!",
+  "hotel_language_add_guinea_description": "By providing a French-language description, you can attract visitors from Guinea who appreciate comfort, hospitality, and a relaxed environment.",
+  "hotel_language_add_guinea_tip": "Tip: Focus on warmth, cleanliness, and genuine care in your hotel’s presentation.",
+
+  "hotel_language_add_guinea_bissau_header": "Welcoming Tourists from Guinea-Bissau",
+  "hotel_language_add_guinea_bissau_title": "You’re taking the first step towards attracting tourists from Guinea-Bissau!",
+  "hotel_language_add_guinea_bissau_description": "By writing your hotel description in Portuguese, you can reach West African travelers who value comfort, good service, and cultural familiarity.",
+  "hotel_language_add_guinea_bissau_tip": "Tip: Emphasize your hotel’s hospitality, local culture, and attentive service.",
+
+  "hotel_language_add_haiti_header": "Welcoming Tourists from Haiti",
+  "hotel_language_add_haiti_title": "You’re taking the first step towards welcoming Haitian tourists!",
+  "hotel_language_add_haiti_description": "By adding a French or Creole description, you can appeal to Haitian visitors who appreciate warmth, friendliness, and cultural authenticity.",
+  "hotel_language_add_haiti_tip": "Tip: Highlight your welcoming atmosphere, good food, and local artistic elements.",
+
+  "hotel_language_add_honduras_header": "Welcoming Tourists from Honduras",
+  "hotel_language_add_honduras_title": "You’re taking the first step towards attracting Honduran tourists!",
+  "hotel_language_add_honduras_description": "By writing your hotel description in Spanish, you can attract Honduran travelers who appreciate personal attention, comfort, and affordability.",
+  "hotel_language_add_honduras_tip": "Tip: Use a warm tone to showcase your hotel’s friendliness and value for money.",
+
+  "hotel_language_add_hong_kong_header": "Welcoming Tourists from Hong Kong",
+  "hotel_language_add_hong_kong_title": "You’re taking the first step towards welcoming tourists from Hong Kong!",
+  "hotel_language_add_hong_kong_description": "By providing a description in Traditional Chinese, you can attract Hong Kong travelers who value modern comfort, safety, and access to quality shopping and dining.",
+  "hotel_language_add_hong_kong_tip": "Tip: Focus on premium experiences, efficiency, and your hotel’s modern design.",
+
+  "hotel_language_add_hungary_header": "Welcoming Tourists from Hungary",
+  "hotel_language_add_hungary_title": "You’re taking the first step towards attracting Hungarian tourists!",
+  "hotel_language_add_hungary_description": "By describing your hotel in Hungarian, you can connect with travelers who appreciate warm hospitality, comfort, and good local cuisine.",
+  "hotel_language_add_hungary_tip": "Tip: Emphasize relaxation, friendly staff, and traditional flavors.",
+
+  "hotel_language_add_iceland_header": "Welcoming Tourists from Iceland",
+  "hotel_language_add_iceland_title": "You’re taking the first step towards attracting Icelandic tourists!",
+  "hotel_language_add_iceland_description": "By providing your hotel’s details in English for Icelandic guests, you can appeal to travelers who value nature, calmness, and high-quality service.",
+  "hotel_language_add_iceland_tip": "Tip: Highlight sustainability, tranquility, and a premium yet natural experience.",
+
+  "hotel_language_add_india_header": "Welcoming Tourists from India",
+  "hotel_language_add_india_title": "You’re taking the first step towards attracting Indian tourists!",
+  "hotel_language_add_india_description": "By presenting your hotel in English or Hindi, you can appeal to Indian travelers who appreciate hospitality, family-friendly environments, and local food options.",
+  "hotel_language_add_india_tip": "Tip: Emphasize vegetarian-friendly dining, warm service, and cultural sensitivity.",
+
+  "hotel_language_add_indonesia_header": "Welcoming Tourists from Indonesia",
+  "hotel_language_add_indonesia_title": "You’re taking the first step towards attracting Indonesian tourists!",
+  "hotel_language_add_indonesia_description": "By writing a description in Indonesian, you can appeal to travelers who value friendliness, affordability, and family-oriented stays.",
+  "hotel_language_add_indonesia_tip": "Tip: Use a friendly tone emphasizing halal dining, comfort, and safety.",
+
+  "hotel_language_add_iran_header": "Welcoming Tourists from Iran",
+  "hotel_language_add_iran_title": "You’re taking the first step towards attracting Iranian tourists!",
+  "hotel_language_add_iran_description": "By describing your hotel in Persian, you can appeal to Iranian guests who appreciate elegance, privacy, and refined service.",
+  "hotel_language_add_iran_tip": "Tip: Highlight luxury, respectful service, and high-quality facilities.",
+
+  "hotel_language_add_iraq_header": "Welcoming Tourists from Iraq",
+  "hotel_language_add_iraq_title": "You’re taking the first step towards welcoming Iraqi tourists!",
+  "hotel_language_add_iraq_description": "By adding an Arabic-language description, you can attract Iraqi travelers who value comfort, privacy, and reliable service.",
+  "hotel_language_add_iraq_tip": "Tip: Focus on safety, family comfort, and premium service quality.",
+
+  "hotel_language_add_ireland_header": "Welcoming Tourists from Ireland",
+  "hotel_language_add_ireland_title": "You’re taking the first step towards attracting Irish tourists!",
+  "hotel_language_add_ireland_description": "By presenting your hotel in English, you can appeal to Irish visitors who appreciate friendly service, cozy spaces, and authentic experiences.",
+  "hotel_language_add_ireland_tip": "Tip: Use a warm, conversational tone emphasizing comfort and friendliness.",
+
+  "hotel_language_add_israel_header": "Welcoming Tourists from Israel",
+  "hotel_language_add_israel_title": "You’re taking the first step towards attracting Israeli tourists!",
+  "hotel_language_add_israel_description": "By providing a Hebrew or English description, you can attract Israeli travelers who value modern design, cleanliness, and good food.",
+  "hotel_language_add_israel_tip": "Tip: Highlight comfort, cultural sensitivity, and local culinary experiences.",
+
+  "hotel_language_add_jamaica_header": "Welcoming Tourists from Jamaica",
+  "hotel_language_add_jamaica_title": "You’re taking the first step towards attracting Jamaican tourists!",
+  "hotel_language_add_jamaica_description": "By describing your hotel in English for Jamaican visitors, you can appeal to travelers who appreciate relaxation, friendly service, and vibrant local culture.",
+  "hotel_language_add_jamaica_tip": "Tip: Use an upbeat and welcoming tone to highlight relaxation, good vibes, and warmth.",
+
+  "hotel_language_add_japan_header": "Welcoming Tourists from Japan",
+  "hotel_language_add_japan_title": "You’re taking the first step towards attracting Japanese tourists!",
+  "hotel_language_add_japan_description": "By writing a Japanese-language description, you can appeal to travelers who appreciate politeness, precision, and cleanliness. Japanese visitors value calm environments and professional service.",
+  "hotel_language_add_japan_tip": "Tip: Use a respectful and elegant tone emphasizing cleanliness, comfort, and order.",
+
+  "hotel_language_add_jordan_header": "Welcoming Tourists from Jordan",
+  "hotel_language_add_jordan_title": "You’re taking the first step towards attracting Jordanian tourists!",
+  "hotel_language_add_jordan_description": "By providing an Arabic description of your hotel, you can appeal to Jordanian travelers who value comfort, privacy, and high-quality hospitality. They appreciate welcoming environments and cultural respect.",
+  "hotel_language_add_jordan_tip": "Tip: Emphasize comfort, security, and family-friendly amenities in an elegant tone.",
+
+  "hotel_language_add_kazakhstan_header": "Welcoming Tourists from Kazakhstan",
+  "hotel_language_add_kazakhstan_title": "You’re taking the first step towards attracting Kazakh tourists!",
+  "hotel_language_add_kazakhstan_description": "By writing a description in Russian or Kazakh, you can attract travelers who value modern comfort, delicious food, and spacious accommodations. Kazakh tourists appreciate family-oriented and nature-friendly stays.",
+  "hotel_language_add_kazakhstan_tip": "Tip: Highlight your hotel’s space, cleanliness, and excellent service.",
+
+  "hotel_language_add_kenya_header": "Welcoming Tourists from Kenya",
+  "hotel_language_add_kenya_title": "You’re taking the first step towards attracting Kenyan tourists!",
+  "hotel_language_add_kenya_description": "By offering your hotel description in English, you can connect with Kenyan travelers who enjoy warm hospitality, vibrant experiences, and cultural exchange.",
+  "hotel_language_add_kenya_tip": "Tip: Use an energetic and inviting tone emphasizing local culture and friendly service.",
+
+  "hotel_language_add_kuwait_header": "Welcoming Tourists from Kuwait",
+  "hotel_language_add_kuwait_title": "You’re taking the first step towards attracting Kuwaiti tourists!",
+  "hotel_language_add_kuwait_description": "By writing a description in Arabic, you can appeal to Kuwaiti travelers who value luxury, privacy, and comfort. They appreciate elegant surroundings and personalized service.",
+  "hotel_language_add_kuwait_tip": "Tip: Focus on exclusive experiences, private spaces, and high-end amenities.",
+
+  "hotel_language_add_kyrgyzstan_header": "Welcoming Tourists from Kyrgyzstan",
+  "hotel_language_add_kyrgyzstan_title": "You’re taking the first step towards attracting Kyrgyz tourists!",
+  "hotel_language_add_kyrgyzstan_description": "By providing your hotel details in Russian, you can reach Kyrgyz travelers who appreciate hospitality, value for money, and scenic locations.",
+  "hotel_language_add_kyrgyzstan_tip": "Tip: Emphasize your hotel’s friendly staff, natural beauty, and cozy environment.",
+
+  "hotel_language_add_laos_header": "Welcoming Tourists from Laos",
+  "hotel_language_add_laos_title": "You’re taking the first step towards attracting Lao tourists!",
+  "hotel_language_add_laos_description": "By describing your hotel in Lao, you can appeal to travelers who appreciate peace, simplicity, and hospitality. Lao visitors enjoy calm atmospheres and cultural authenticity.",
+  "hotel_language_add_laos_tip": "Tip: Highlight tranquility, warmth, and authentic local experiences.",
+
+  "hotel_language_add_latvia_header": "Welcoming Tourists from Latvia",
+  "hotel_language_add_latvia_title": "You’re taking the first step towards attracting Latvian tourists!",
+  "hotel_language_add_latvia_description": "By providing a description in Latvian, you can appeal to travelers who appreciate order, cleanliness, and natural beauty. Latvians often enjoy relaxing stays with cultural depth.",
+  "hotel_language_add_latvia_tip": "Tip: Use a calm and clear tone focusing on comfort, nature, and design.",
+
+  "hotel_language_add_lebanon_header": "Welcoming Tourists from Lebanon",
+  "hotel_language_add_lebanon_title": "You’re taking the first step towards attracting Lebanese tourists!",
+  "hotel_language_add_lebanon_description": "By writing a description in Arabic, you can reach Lebanese visitors who value lively atmospheres, luxury, and high-quality dining.",
+  "hotel_language_add_lebanon_tip": "Tip: Highlight style, fine food, and the elegant hospitality of your hotel.",
+
+  "hotel_language_add_liberia_header": "Welcoming Tourists from Liberia",
+  "hotel_language_add_liberia_title": "You’re taking the first step towards attracting Liberian tourists!",
+  "hotel_language_add_liberia_description": "By providing your hotel’s description in English, you can attract Liberian guests who appreciate warm service, comfort, and reliability.",
+  "hotel_language_add_liberia_tip": "Tip: Focus on friendliness, convenience, and safety.",
+
+  "hotel_language_add_libya_header": "Welcoming Tourists from Libya",
+  "hotel_language_add_libya_title": "You’re taking the first step towards attracting Libyan tourists!",
+  "hotel_language_add_libya_description": "By writing your hotel description in Arabic, you can appeal to Libyan travelers who prefer privacy, comfort, and family-friendly facilities.",
+  "hotel_language_add_libya_tip": "Tip: Emphasize security, luxury, and attentive service in your message.",
+
+  "hotel_language_add_liechtenstein_header": "Welcoming Tourists from Liechtenstein",
+  "hotel_language_add_liechtenstein_title": "You’re taking the first step towards attracting tourists from Liechtenstein!",
+  "hotel_language_add_liechtenstein_description": "By offering a German-language description, you can reach travelers who value efficiency, quiet luxury, and refined service.",
+  "hotel_language_add_liechtenstein_tip": "Tip: Use precise, elegant wording that reflects comfort and exclusivity.",
+
+  "hotel_language_add_lithuania_header": "Welcoming Tourists from Lithuania",
+  "hotel_language_add_lithuania_title": "You’re taking the first step towards attracting Lithuanian tourists!",
+  "hotel_language_add_lithuania_description": "By writing your hotel description in Lithuanian, you can appeal to visitors who value simplicity, nature, and peaceful environments.",
+  "hotel_language_add_lithuania_tip": "Tip: Focus on nature, relaxation, and authentic hospitality.",
+
+  "hotel_language_add_luxembourg_header": "Welcoming Tourists from Luxembourg",
+  "hotel_language_add_luxembourg_title": "You’re taking the first step towards attracting tourists from Luxembourg!",
+  "hotel_language_add_luxembourg_description": "By providing a multilingual description (French or German), you can appeal to travelers who appreciate quality, calm, and personalized service.",
+  "hotel_language_add_luxembourg_tip": "Tip: Emphasize exclusivity, fine dining, and refined details.",
+
+  "hotel_language_add_macao_header": "Welcoming Tourists from Macao",
+  "hotel_language_add_macao_title": "You’re taking the first step towards attracting tourists from Macao!",
+  "hotel_language_add_macao_description": "By writing a description in Traditional Chinese, you can appeal to Macao visitors who value luxury, entertainment, and shopping convenience.",
+  "hotel_language_add_macao_tip": "Tip: Highlight modern luxury, fine cuisine, and exclusive comfort.",
+
+  "hotel_language_add_malaysia_header": "Welcoming Tourists from Malaysia",
+  "hotel_language_add_malaysia_title": "You’re taking the first step towards attracting Malaysian tourists!",
+  "hotel_language_add_malaysia_description": "By writing your hotel description in Malay or English, you can appeal to travelers who value hospitality, cleanliness, and family-friendly comfort.",
+  "hotel_language_add_malaysia_tip": "Tip: Use a friendly tone to emphasize halal dining, warmth, and convenience.",
+
+  "hotel_language_add_maldives_header": "Welcoming Tourists from Maldives",
+  "hotel_language_add_maldives_title": "You’re taking the first step towards attracting Maldivian tourists!",
+  "hotel_language_add_maldives_description": "By providing your hotel’s details in English, you can reach travelers who enjoy peace, comfort, and natural beauty.",
+  "hotel_language_add_maldives_tip": "Tip: Focus on relaxation, romantic experiences, and ocean views.",
+
+  "hotel_language_add_mali_header": "Welcoming Tourists from Mali",
+  "hotel_language_add_mali_title": "You’re taking the first step towards attracting Malian tourists!",
+  "hotel_language_add_mali_description": "By offering a French-language description, you can attract travelers who value hospitality, cultural connection, and good service.",
+  "hotel_language_add_mali_tip": "Tip: Highlight kindness, authenticity, and your hotel’s welcoming spirit.",
+
+  "hotel_language_add_malta_header": "Welcoming Tourists from Malta",
+  "hotel_language_add_malta_title": "You’re taking the first step towards attracting Maltese tourists!",
+  "hotel_language_add_malta_description": "By providing your hotel details in English, you can appeal to Maltese guests who appreciate culture, comfort, and good dining experiences.",
+  "hotel_language_add_malta_tip": "Tip: Emphasize local charm, friendly service, and coastal experiences.",
+
+  "hotel_language_add_mauritius_header": "Welcoming Tourists from Mauritius",
+  "hotel_language_add_mauritius_title": "You’re taking the first step towards attracting Mauritian tourists!",
+  "hotel_language_add_mauritius_description": "By presenting your hotel in English or French, you can appeal to Mauritian visitors who love tropical settings, good service, and relaxation.",
+  "hotel_language_add_mauritius_tip": "Tip: Highlight your hospitality, cleanliness, and natural surroundings.",
+
+  "hotel_language_add_mexico_header": "Welcoming Tourists from Mexico",
+  "hotel_language_add_mexico_title": "You’re taking the first step towards attracting Mexican tourists!",
+  "hotel_language_add_mexico_description": "By writing your hotel description in Spanish, you can appeal to Mexican travelers who appreciate warm hospitality, lively environments, and delicious cuisine.",
+  "hotel_language_add_mexico_tip": "Tip: Use an enthusiastic tone to highlight friendliness and cultural experiences.",
+
+  "hotel_language_add_micronesia_header": "Welcoming Tourists from Micronesia",
+  "hotel_language_add_micronesia_title": "You’re taking the first step towards attracting tourists from Micronesia!",
+  "hotel_language_add_micronesia_description": "By providing your hotel information in English, you can appeal to Micronesian visitors who appreciate relaxed stays, natural beauty, and personal service.",
+  "hotel_language_add_micronesia_tip": "Tip: Emphasize peace, ocean views, and a friendly environment.",
+
+  "hotel_language_add_moldova_header": "Welcoming Tourists from Moldova",
+  "hotel_language_add_moldova_title": "You’re taking the first step towards attracting Moldovan tourists!",
+  "hotel_language_add_moldova_description": "By writing your hotel description in Romanian or Russian, you can appeal to Moldovan travelers who value warmth, cleanliness, and affordable comfort.",
+  "hotel_language_add_moldova_tip": "Tip: Highlight your cozy atmosphere, good food, and caring staff.",
+
+  "hotel_language_add_monaco_header": "Welcoming Tourists from Monaco",
+  "hotel_language_add_monaco_title": "You’re taking the first step towards attracting Monegasque tourists!",
+  "hotel_language_add_monaco_description": "Monaco — the heart of luxury. Visitors often seek Michelin-starred restaurants, yacht marinas, and an exclusive nightlife. By presenting your hotel in English or French, you can appeal to Monegasque guests who value refinement and high-class experiences.",
+  "hotel_language_add_monaco_tip": "Tip: Highlight elegance, gourmet dining, and personalized luxury service.",
+
+  "hotel_language_add_morocco_header": "Welcoming Tourists from Morocco",
+  "hotel_language_add_morocco_title": "You’re taking the first step towards attracting Moroccan tourists!",
+  "hotel_language_add_morocco_description": "Morocco — a country rich in culture and hospitality. Moroccan visitors appreciate warmth, tradition, and good food. By presenting your hotel in Arabic or French, you can create a familiar and welcoming impression.",
+  "hotel_language_add_morocco_tip": "Tip: Emphasize family-friendly service, cultural respect, and authentic cuisine.",
+
+  "hotel_language_add_mozambique_header": "Welcoming Tourists from Mozambique",
+  "hotel_language_add_mozambique_title": "You’re taking the first step towards attracting Mozambican tourists!",
+  "hotel_language_add_mozambique_description": "Mozambique — known for its beaches and warm hospitality. Visitors enjoy seaside relaxation and seafood. By presenting your hotel in Portuguese, you can connect better with Mozambican travelers who value simplicity and comfort.",
+  "hotel_language_add_mozambique_tip": "Tip: Highlight ocean views, cleanliness, and fresh local food.",
+
+  "hotel_language_add_myanmar_header": "Welcoming Tourists from Myanmar",
+  "hotel_language_add_myanmar_title": "You’re taking the first step towards attracting tourists from Myanmar!",
+  "hotel_language_add_myanmar_description": "Myanmar — peaceful, spiritual, and culturally rich. Travelers prefer calm environments and gentle hospitality. By presenting your hotel in English, you can easily engage with Burmese visitors.",
+  "hotel_language_add_myanmar_tip": "Tip: Emphasize tranquility, sincerity, and respectful service.",
+
+  "hotel_language_add_namibia_header": "Welcoming Tourists from Namibia",
+  "hotel_language_add_namibia_title": "You’re taking the first step towards attracting Namibian tourists!",
+  "hotel_language_add_namibia_description": "Namibia — home of adventure and natural beauty. Travelers enjoy wildlife, open landscapes, and modern comfort. By presenting your hotel in English, you can appeal directly to Namibian visitors.",
+  "hotel_language_add_namibia_tip": "Tip: Highlight nature tours, comfort, and authentic local experiences.",
+
+  "hotel_language_add_nepal_header": "Welcoming Tourists from Nepal",
+  "hotel_language_add_nepal_title": "You’re taking the first step towards attracting Nepali tourists!",
+  "hotel_language_add_nepal_description": "Nepal — spiritual and serene. Visitors appreciate vegetarian food, clean spaces, and a calm environment. By presenting your hotel in English or Nepali, you can attract culturally mindful travelers.",
+  "hotel_language_add_nepal_tip": "Tip: Highlight peaceful surroundings and friendly hospitality.",
+
+  "hotel_language_add_netherlands_header": "Welcoming Tourists from the Netherlands",
+  "hotel_language_add_netherlands_title": "You’re taking the first step towards attracting Dutch tourists!",
+  "hotel_language_add_netherlands_description": "The Netherlands — modern, eco-friendly, and design-focused. Dutch travelers value sustainability, efficiency, and comfort. By presenting your hotel in English or Dutch, you can engage effectively with them.",
+  "hotel_language_add_netherlands_tip": "Tip: Emphasize sustainability, modern design, and convenience.",
+
+  "hotel_language_add_new_zealand_header": "Welcoming Tourists from New Zealand",
+  "hotel_language_add_new_zealand_title": "You’re taking the first step towards attracting Kiwi tourists!",
+  "hotel_language_add_new_zealand_description": "New Zealand — nature-loving and relaxed. Visitors seek outdoor adventures, fresh food, and friendly service. By presenting your hotel in English, you’ll connect naturally with them.",
+  "hotel_language_add_new_zealand_tip": "Tip: Highlight natural scenery, comfort, and relaxed hospitality.",
+
+  "hotel_language_add_nicaragua_header": "Welcoming Tourists from Nicaragua",
+  "hotel_language_add_nicaragua_title": "You’re taking the first step towards attracting Nicaraguan tourists!",
+  "hotel_language_add_nicaragua_description": "Nicaragua — full of culture and energy. Travelers love music, color, and great food. By presenting your hotel in Spanish, you can appeal to Nicaraguan guests seeking warmth and authenticity.",
+  "hotel_language_add_nicaragua_tip": "Tip: Emphasize local food, lively atmosphere, and friendly service.",
+
+  "hotel_language_add_niger_header": "Welcoming Tourists from Niger",
+  "hotel_language_add_niger_title": "You’re taking the first step towards attracting Nigerien tourists!",
+  "hotel_language_add_niger_description": "Niger — rich in traditions and simplicity. Visitors appreciate respect, warmth, and authentic hospitality. By presenting your hotel in French, you can connect more easily.",
+  "hotel_language_add_niger_tip": "Tip: Highlight community, cultural respect, and welcoming service.",
+
+  "hotel_language_add_nigeria_header": "Welcoming Tourists from Nigeria",
+  "hotel_language_add_nigeria_title": "You’re taking the first step towards attracting Nigerian tourists!",
+  "hotel_language_add_nigeria_description": "Nigeria — energetic and diverse. Travelers enjoy lively environments, good food, and luxury comfort. By presenting your hotel in English, you can communicate perfectly with Nigerian visitors.",
+  "hotel_language_add_nigeria_tip": "Tip: Highlight modern amenities, music, and vibrant service.",
+
+  "hotel_language_add_north_macedonia_header": "Welcoming Tourists from North Macedonia",
+  "hotel_language_add_north_macedonia_title": "You’re taking the first step towards attracting Macedonian tourists!",
+  "hotel_language_add_north_macedonia_description": "North Macedonia — warm and welcoming. Visitors appreciate home-style food and family environments. By presenting your hotel in English or Macedonian, you’ll feel familiar to them.",
+  "hotel_language_add_north_macedonia_tip": "Tip: Highlight traditional flavors, comfort, and friendliness.",
+
+  "hotel_language_add_norway_header": "Welcoming Tourists from Norway",
+  "hotel_language_add_norway_title": "You’re taking the first step towards attracting Norwegian tourists!",
+  "hotel_language_add_norway_description": "Norway — calm and nature-oriented. Norwegian travelers seek comfort, simplicity, and high quality. By presenting your hotel in English or Norwegian, you can attract trustful guests.",
+  "hotel_language_add_norway_tip": "Tip: Emphasize clean design, comfort, and nature connections.",
+
+  "hotel_language_add_oman_header": "Welcoming Tourists from Oman",
+  "hotel_language_add_oman_title": "You’re taking the first step towards attracting Omani tourists!",
+  "hotel_language_add_oman_description": "Oman — elegant and traditional. Visitors value privacy, comfort, and courteous service. By presenting your hotel in Arabic or English, you can attract Omani travelers who appreciate refinement.",
+  "hotel_language_add_oman_tip": "Tip: Highlight luxury, calmness, and attentive service.",
+
+  "hotel_language_add_pakistan_header": "Welcoming Tourists from Pakistan",
+  "hotel_language_add_pakistan_title": "You’re taking the first step towards attracting Pakistani tourists!",
+  "hotel_language_add_pakistan_description": "Pakistan — rich in culture and hospitality. Visitors love delicious food and family-oriented places. By presenting your hotel in English or Urdu, you can engage warmly with Pakistani guests.",
+  "hotel_language_add_pakistan_tip": "Tip: Emphasize food quality, respect, and family comfort.",
+
+  "hotel_language_add_panama_header": "Welcoming Tourists from Panama",
+  "hotel_language_add_panama_title": "You’re taking the first step towards attracting Panamanian tourists!",
+  "hotel_language_add_panama_description": "Panama — tropical and vibrant. Travelers love music, beaches, and friendly service. By presenting your hotel in Spanish, you can easily attract Panamanian guests.",
+  "hotel_language_add_panama_tip": "Tip: Highlight relaxation, color, and positive energy.",
+
+  "hotel_language_add_papua_new_guinea_header": "Welcoming Tourists from Papua New Guinea",
+  "hotel_language_add_papua_new_guinea_title": "You’re taking the first step towards attracting Papua New Guinean tourists!",
+  "hotel_language_add_papua_new_guinea_description": "Papua New Guinea — diverse and community-oriented. Visitors enjoy natural landscapes and genuine hospitality. By presenting your hotel in English, you can communicate effectively.",
+  "hotel_language_add_papua_new_guinea_tip": "Tip: Highlight friendliness, culture, and connection with nature.",
+
+  "hotel_language_add_paraguay_header": "Welcoming Tourists from Paraguay",
+  "hotel_language_add_paraguay_title": "You’re taking the first step towards attracting Paraguayan tourists!",
+  "hotel_language_add_paraguay_description": "Paraguay — full of warmth and authenticity. Visitors enjoy local traditions and grilled food. By presenting your hotel in Spanish or Guarani, you can connect deeply with them.",
+  "hotel_language_add_paraguay_tip": "Tip: Highlight hospitality, comfort, and rich flavors.",
+
+  "hotel_language_add_peru_header": "Welcoming Tourists from Peru",
+  "hotel_language_add_peru_title": "You’re taking the first step towards attracting Peruvian tourists!",
+  "hotel_language_add_peru_description": "Peru — the land of ancient culture and gastronomy. Visitors love culinary experiences and warm service. By presenting your hotel in Spanish, you can attract Peruvian travelers.",
+  "hotel_language_add_peru_tip": "Tip: Highlight your food, heritage, and hospitality.",
+
+  "hotel_language_add_philippines_header": "Welcoming Tourists from the Philippines",
+  "hotel_language_add_philippines_title": "You’re taking the first step towards attracting Filipino tourists!",
+  "hotel_language_add_philippines_description": "The Philippines — joyful and family-oriented. Visitors appreciate kindness, music, and tropical beauty. By presenting your hotel in English or Filipino, you can reach them effectively.",
+  "hotel_language_add_philippines_tip": "Tip: Highlight smiles, warmth, and comfortable stays.",
+
+  "hotel_language_add_poland_header": "Welcoming Tourists from Poland",
+  "hotel_language_add_poland_title": "You’re taking the first step towards attracting Polish tourists!",
+  "hotel_language_add_poland_description": "Poland — traditional and friendly. Travelers value good food, cleanliness, and cozy environments. By presenting your hotel in English or Polish, you can appeal to their preferences.",
+  "hotel_language_add_poland_tip": "Tip: Highlight comfort, hospitality, and local charm.",
+
+  "hotel_language_add_portugal_header": "Welcoming Tourists from Portugal",
+  "hotel_language_add_portugal_title": "You’re taking the first step towards attracting Portuguese tourists!",
+  "hotel_language_add_portugal_description": "Portugal — rich in history and scenic beauty. Portuguese travelers value comfort, good food, and warm hospitality. By presenting your hotel in Portuguese or English, you can connect with them effectively.",
+  "hotel_language_add_portugal_tip": "Tip: Highlight quality food, cultural richness, and friendly service.",
+
+  "hotel_language_add_qatar_header": "Welcoming Tourists from Qatar",
+  "hotel_language_add_qatar_title": "You’re taking the first step towards attracting Qatari tourists!",
+  "hotel_language_add_qatar_description": "Qatar — modern luxury and cultural heritage. Qatari visitors seek refined experiences, privacy, and luxury. Presenting your hotel in Arabic or English will make them feel at home.",
+  "hotel_language_add_qatar_tip": "Tip: Emphasize luxury, comfort, and personalized services.",
+
+  "hotel_language_add_romania_header": "Welcoming Tourists from Romania",
+  "hotel_language_add_romania_title": "You’re taking the first step towards attracting Romanian tourists!",
+  "hotel_language_add_romania_description": "Romania — rich in culture, history, and natural beauty. Romanian tourists appreciate traditional food, local warmth, and clean, comfortable environments. Presenting your hotel in Romanian or English will build a strong connection.",
+  "hotel_language_add_romania_tip": "Tip: Highlight nature experiences, local traditions, and hospitality.",
+
+  "hotel_language_add_russia_header": "Welcoming Tourists from Russia",
+  "hotel_language_add_russia_title": "You’re taking the first step towards attracting Russian tourists!",
+  "hotel_language_add_russia_description": "Russia — vast, diverse, and historically rich. Russian visitors value comfort, safety, and luxury experiences. Presenting your hotel in Russian or English will help create an inviting environment.",
+  "hotel_language_add_russia_tip": "Tip: Emphasize high-end amenities, security, and comfort.",
+
+  "hotel_language_add_rwanda_header": "Welcoming Tourists from Rwanda",
+  "hotel_language_add_rwanda_title": "You’re taking the first step towards attracting Rwandan tourists!",
+  "hotel_language_add_rwanda_description": "Rwanda — the land of a thousand hills and vibrant culture. Rwandan visitors enjoy nature, eco-tourism, and a peaceful environment. By presenting your hotel in English or Kinyarwanda, you’ll appeal to their love for nature and serenity.",
+  "hotel_language_add_rwanda_tip": "Tip: Highlight eco-tourism, nature tours, and peace.",
+
+  "hotel_language_add_samoa_header": "Welcoming Tourists from Samoa",
+  "hotel_language_add_samoa_title": "You’re taking the first step towards attracting Samoan tourists!",
+  "hotel_language_add_samoa_description": "Samoa — tropical paradise and community-oriented. Samoan travelers value warmth, nature, and friendly hospitality. Presenting your hotel in English or Samoan will help connect with their laid-back and family-focused culture.",
+  "hotel_language_add_samoa_tip": "Tip: Highlight beachfront views, family-friendly amenities, and community spirit.",
+
+  "hotel_language_add_san_marino_header": "Welcoming Tourists from San Marino",
+  "hotel_language_add_san_marino_title": "You’re taking the first step towards attracting tourists from San Marino!",
+  "hotel_language_add_san_marino_description": "San Marino — small, historic, and charming. San Marino tourists appreciate a peaceful atmosphere, cultural exploration, and local experiences. Presenting your hotel in Italian or English will create a welcoming environment.",
+  "hotel_language_add_san_marino_tip": "Tip: Highlight history, local culture, and comfort.",
+
+  "hotel_language_add_saudi_arabia_header": "Welcoming Tourists from Saudi Arabia",
+  "hotel_language_add_saudi_arabia_title": "You’re taking the first step towards attracting Saudi tourists!",
+  "hotel_language_add_saudi_arabia_description": "Saudi Arabia — luxury, tradition, and elegance. Saudi travelers look for exclusive services, privacy, and cultural sensitivity. Presenting your hotel in Arabic or English will attract their attention.",
+  "hotel_language_add_saudi_arabia_tip": "Tip: Emphasize luxury, privacy, and tailored services.",
+
+  "hotel_language_add_senegal_header": "Welcoming Tourists from Senegal",
+  "hotel_language_add_senegal_title": "You’re taking the first step towards attracting Senegalese tourists!",
+  "hotel_language_add_senegal_description": "Senegal — vibrant and cultural. Senegalese visitors value music, social gatherings, and warm environments. Presenting your hotel in French or English will create an immediate connection.",
+  "hotel_language_add_senegal_tip": "Tip: Highlight vibrant atmospheres, music, and cultural experiences.",
+
+  "hotel_language_add_serbia_header": "Welcoming Tourists from Serbia",
+  "hotel_language_add_serbia_title": "You’re taking the first step towards attracting Serbian tourists!",
+  "hotel_language_add_serbia_description": "Serbia — a blend of tradition and modernity. Serbian tourists appreciate warm hospitality, good food, and a lively atmosphere. Presenting your hotel in Serbian or English will help connect with their culture.",
+  "hotel_language_add_serbia_tip": "Tip: Highlight local food, music, and friendly service.",
+
+  "hotel_language_add_seychelles_header": "Welcoming Tourists from Seychelles",
+  "hotel_language_add_seychelles_title": "You’re taking the first step towards attracting Seychellois tourists!",
+  "hotel_language_add_seychelles_description": "Seychelles — a tropical haven for nature lovers. Seychellois visitors value nature conservation, serenity, and outdoor adventures. Presenting your hotel in English or French will help create a connection with these nature-focused travelers.",
+  "hotel_language_add_seychelles_tip": "Tip: Highlight nature, luxury, and environmental consciousness.",
+
+  "hotel_language_add_sierra_leone_header": "Welcoming Tourists from Sierra Leone",
+  "hotel_language_add_sierra_leone_title": "You’re taking the first step towards attracting Sierra Leonean tourists!",
+  "hotel_language_add_sierra_leone_description": "Sierra Leone — rich in culture and history. Sierra Leonean travelers enjoy a sense of community, hospitality, and natural beauty. Presenting your hotel in English will make them feel at home.",
+  "hotel_language_add_sierra_leone_tip": "Tip: Highlight natural beauty, community spirit, and warm hospitality.",
+
+  "hotel_language_add_singapore_header": "Welcoming Tourists from Singapore",
+  "hotel_language_add_singapore_title": "You’re taking the first step towards attracting Singaporean tourists!",
+  "hotel_language_add_singapore_description": "Singapore — modern, efficient, and cosmopolitan. Singaporean travelers value cleanliness, luxury, and excellent service. Presenting your hotel in English will help you engage effectively with them.",
+  "hotel_language_add_singapore_tip": "Tip: Highlight modern amenities, efficiency, and cleanliness.",
+
+  "hotel_language_add_slovakia_header": "Welcoming Tourists from Slovakia",
+  "hotel_language_add_slovakia_title": "You’re taking the first step towards attracting Slovak tourists!",
+  "hotel_language_add_slovakia_description": "Slovakia — peaceful and picturesque. Slovak tourists appreciate nature, local culture, and hospitality. Presenting your hotel in Slovak or English will help build trust and appeal.",
+  "hotel_language_add_slovakia_tip": "Tip: Highlight nature, local cuisine, and comfort.",
+
+  "hotel_language_add_slovenia_header": "Welcoming Tourists from Slovenia",
+  "hotel_language_add_slovenia_title": "You’re taking the first step towards attracting Slovenian tourists!",
+  "hotel_language_add_slovenia_description": "Slovenia — a small but scenic gem. Slovenian visitors value outdoor activities, peace, and authentic experiences. Presenting your hotel in Slovenian or English will help attract the right crowd.",
+  "hotel_language_add_slovenia_tip": "Tip: Highlight outdoor adventures, nature, and local experiences.",
+
+  "hotel_language_add_solomon_islands_header": "Welcoming Tourists from Solomon Islands",
+  "hotel_language_add_solomon_islands_title": "You’re taking the first step towards attracting tourists from the Solomon Islands!",
+  "hotel_language_add_solomon_islands_description": "Solomon Islands — untouched nature and island culture. Solomon Island travelers value authenticity, nature, and community. Presenting your hotel in English will help them feel at ease.",
+  "hotel_language_add_solomon_islands_tip": "Tip: Highlight local culture, nature, and community experiences.",
+
+  "hotel_language_add_somalia_header": "Welcoming Tourists from Somalia",
+  "hotel_language_add_somalia_title": "You’re taking the first step towards attracting Somali tourists!",
+  "hotel_language_add_somalia_description": "Somalia — rich in culture and heritage. Somali visitors appreciate respectful hospitality and a sense of community. Presenting your hotel in English or Somali will resonate with them.",
+  "hotel_language_add_somalia_tip": "Tip: Highlight cultural respect, local community, and family-friendly services.",
+
+  "hotel_language_add_south_africa_header": "Welcoming Tourists from South Africa",
+  "hotel_language_add_south_africa_title": "You’re taking the first step towards attracting South African tourists!",
+  "hotel_language_add_south_africa_description": "South Africa — vibrant, diverse, and adventurous. South African tourists seek modern comfort, nature, and cultural experiences. Presenting your hotel in English will make them feel right at home.",
+  "hotel_language_add_south_africa_tip": "Tip: Highlight nature, culture, and adventure.",
+
+  "hotel_language_add_south_korea_header": "Welcoming Tourists from South Korea",
+  "hotel_language_add_south_korea_title": "You’re taking the first step towards attracting South Korean tourists!",
+  "hotel_language_add_south_korea_description": "South Korea — dynamic and technology-focused. South Korean travelers enjoy modern amenities, cleanliness, and efficient service. Presenting your hotel in English or Korean will help you connect effectively.",
+  "hotel_language_add_south_korea_tip": "Tip: Highlight modern design, cleanliness, and high-tech amenities.",
+
+  "hotel_language_add_spain_header": "Welcoming Tourists from Spain",
+  "hotel_language_add_spain_title": "You’re taking the first step towards attracting Spanish tourists!",
+  "hotel_language_add_spain_description": "Spain — passionate, cultural, and lively. Spanish visitors enjoy good food, festivals, and vibrant atmospheres. Presenting your hotel in Spanish or English will appeal to their preferences.",
+  "hotel_language_add_spain_tip": "Tip: Highlight local cuisine, vibrant ambiance, and cultural activities.",
+
+  "hotel_language_add_sri_lanka_header": "Welcoming Tourists from Sri Lanka",
+  "hotel_language_add_sri_lanka_title": "You’re taking the first step towards attracting Sri Lankan tourists!",
+  "hotel_language_add_sri_lanka_description": "Sri Lanka — tranquil, spiritual, and nature-filled. Sri Lankan visitors appreciate peaceful surroundings, warm service, and beautiful landscapes. Presenting your hotel in Sinhala, Tamil, or English will create a connection.",
+  "hotel_language_add_sri_lanka_tip": "Tip: Highlight serene environments, local culture, and nature.",
+
+  "hotel_language_add_st_kitts_nevis_header": "Welcoming Tourists from St. Kitts & Nevis",
+  "hotel_language_add_st_kitts_nevis_title": "You’re taking the first step towards attracting tourists from St. Kitts & Nevis!",
+  "hotel_language_add_st_kitts_nevis_description": "St. Kitts & Nevis — beautiful islands with rich history and vibrant culture. Visitors from these islands enjoy natural beauty, calm beaches, and local hospitality. Presenting your hotel in English will resonate well.",
+  "hotel_language_add_st_kitts_nevis_tip": "Tip: Highlight relaxation, island life, and natural beauty.",
+
+  "hotel_language_add_st_lucia_header": "Welcoming Tourists from St. Lucia",
+  "hotel_language_add_st_lucia_title": "You’re taking the first step towards attracting tourists from St. Lucia!",
+  "hotel_language_add_st_lucia_description": "St. Lucia — serene, romantic, and tropical. Visitors from St. Lucia appreciate luxury, beautiful scenery, and tranquil environments. Presenting your hotel in English will be a great fit.",
+  "hotel_language_add_st_lucia_tip": "Tip: Highlight luxurious amenities, tropical experiences, and peaceful settings.",
+
+  "hotel_language_add_sudan_header": "Welcoming Tourists from Sudan",
+  "hotel_language_add_sudan_title": "You’re taking the first step towards attracting Sudanese tourists!",
+  "hotel_language_add_sudan_description": "Sudan — full of history, culture, and warm hospitality. Sudanese visitors value respect, family-friendly spaces, and cultural richness. Presenting your hotel in Arabic or English will be the right approach.",
+  "hotel_language_add_sudan_tip": "Tip: Highlight cultural experiences, family services, and respect.",
+
+  "hotel_language_add_suriname_header": "Welcoming Tourists from Suriname",
+  "hotel_language_add_suriname_title": "You’re taking the first step towards attracting Surinamese tourists!",
+  "hotel_language_add_suriname_description": "Suriname — diverse and vibrant. Surinamese travelers appreciate rich cultures, good food, and community. Presenting your hotel in Dutch or English will create a strong connection.",
+  "hotel_language_add_suriname_tip": "Tip: Highlight local cuisine, cultural diversity, and friendly service.",
+
+  "hotel_language_add_sweden_header": "Welcoming Tourists from Sweden",
+  "hotel_language_add_sweden_title": "You’re taking the first step towards attracting Swedish tourists!",
+  "hotel_language_add_sweden_description": "Sweden — minimalist, eco-conscious, and nature-focused. Swedish visitors value sustainability, clean design, and comfort. Presenting your hotel in Swedish or English will appeal to them.",
+  "hotel_language_add_sweden_tip": "Tip: Highlight eco-friendly features, design, and nature activities.",
+
+  "hotel_language_add_switzerland_header": "Welcoming Tourists from Switzerland",
+  "hotel_language_add_switzerland_title": "You’re taking the first step towards attracting Swiss tourists!",
+  "hotel_language_add_switzerland_description": "Switzerland — known for its cleanliness, efficiency, and high standards. Swiss visitors seek quality, comfort, and precision. Presenting your hotel in German, French, Italian, or English will meet their expectations.",
+  "hotel_language_add_switzerland_tip": "Tip: Highlight quality, comfort, and precision in service.",
+
+  "hotel_language_add_taiwan_header": "Welcoming Tourists from Taiwan",
+  "hotel_language_add_taiwan_title": "You’re taking the first step towards attracting Taiwanese tourists!",
+  "hotel_language_add_taiwan_description": "Taiwan — vibrant, technology-focused, and culturally rich. Taiwanese visitors value quality, modern services, and good food. Presenting your hotel in Mandarin or English will create a strong connection.",
+  "hotel_language_add_taiwan_tip": "Tip: Highlight high-tech amenities, food quality, and cultural experiences.",
+
+  "hotel_language_add_tajikistan_header": "Welcoming Tourists from Tajikistan",
+  "hotel_language_add_tajikistan_title": "You’re taking the first step towards attracting Tajik tourists!",
+  "hotel_language_add_tajikistan_description": "Tajikistan — mountainous, peaceful, and rich in history. Tajik visitors appreciate nature, simplicity, and hospitality. Presenting your hotel in Tajik or Russian will make them feel at ease.",
+  "hotel_language_add_tajikistan_tip": "Tip: Highlight nature, local culture, and peaceful surroundings.",
+
+  "hotel_language_add_tanzania_header": "Welcoming Tourists from Tanzania",
+  "hotel_language_add_tanzania_title": "You’re taking the first step towards attracting Tanzanian tourists!",
+  "hotel_language_add_tanzania_description": "Tanzania — known for its wildlife and beautiful landscapes. Tanzanian visitors value nature, adventure, and cultural experiences. Presenting your hotel in Swahili or English will connect you with them.",
+  "hotel_language_add_tanzania_tip": "Tip: Highlight safaris, local culture, and adventure.",
+
+  "hotel_language_add_thailand_header": "Welcoming Tourists from Thailand",
+  "hotel_language_add_thailand_title": "You’re taking the first step towards attracting Thai tourists!",
+  "hotel_language_add_thailand_description": "Thailand — vibrant, tropical, and full of energy. Thai travelers enjoy lively environments, cultural experiences, and excellent food. Presenting your hotel in Thai or English will help you engage with them.",
+  "hotel_language_add_thailand_tip": "Tip: Highlight food, vibrant atmosphere, and local culture.",
+
+  "hotel_language_add_togo_header": "Welcoming Tourists from Togo",
+  "hotel_language_add_togo_title": "You’re taking the first step towards attracting Togolese tourists!",
+  "hotel_language_add_togo_description": "Togo — vibrant and community-oriented. Togolese travelers appreciate respect, local culture, and a sense of belonging. Presenting your hotel in French or English will resonate well with them.",
+  "hotel_language_add_togo_tip": "Tip: Highlight cultural traditions, respect, and friendly services.",
+
+  "hotel_language_add_tonga_header": "Welcoming Tourists from Tonga",
+  "hotel_language_add_tonga_title": "You’re taking the first step towards attracting Tongan tourists!",
+  "hotel_language_add_tonga_description": "Tonga — peaceful and island-focused. Tongan visitors value simplicity, warmth, and nature. Presenting your hotel in English or Tongan will help create a familiar atmosphere.",
+  "hotel_language_add_tonga_tip": "Tip: Highlight natural beauty, simplicity, and warm service.",
+
+  "hotel_language_add_trinidad_tobago_header": "Welcoming Tourists from Trinidad & Tobago",
+  "hotel_language_add_trinidad_tobago_title": "You’re taking the first step towards attracting tourists from Trinidad & Tobago!",
+  "hotel_language_add_trinidad_tobago_description": "Trinidad & Tobago — lively, cultural, and festive. Visitors enjoy music, lively festivals, and beautiful beaches. Presenting your hotel in English will help connect with them.",
+  "hotel_language_add_trinidad_tobago_tip": "Tip: Highlight vibrant events, beaches, and cultural experiences.",
+
+  "hotel_language_add_tunisia_header": "Welcoming Tourists from Tunisia",
+  "hotel_language_add_tunisia_title": "You’re taking the first step towards attracting Tunisian tourists!",
+  "hotel_language_add_tunisia_description": "Tunisia — rich in culture and history. Tunisian travelers appreciate heritage, warmth, and local experiences. Presenting your hotel in Arabic or French will help you connect more easily.",
+  "hotel_language_add_tunisia_tip": "Tip: Highlight cultural heritage, local cuisine, and family-friendly services.",
+
+  "hotel_language_add_turkmenistan_header": "Welcoming Tourists from Turkmenistan",
+  "hotel_language_add_turkmenistan_title": "You’re taking the first step towards attracting Turkmen tourists!",
+  "hotel_language_add_turkmenistan_description": "Turkmenistan — known for its rich culture and history. Visitors from Turkmenistan value comfort, respect, and cultural experiences. Presenting your hotel in Russian or Turkmen will make them feel more at home.",
+  "hotel_language_add_turkmenistan_tip": "Tip: Highlight cultural richness, comfort, and respectful hospitality.",
+
+  "hotel_language_add_turks_caicos_islands_header": "Welcoming Tourists from Turks & Caicos Islands",
+  "hotel_language_add_turks_caicos_islands_title": "You’re taking the first step towards attracting tourists from Turks & Caicos Islands!",
+  "hotel_language_add_turks_caicos_islands_description": "Turks & Caicos Islands — tropical, serene, and luxurious. Visitors appreciate beautiful beaches, water activities, and relaxation. Presenting your hotel in English will resonate with them.",
+  "hotel_language_add_turks_caicos_islands_tip": "Tip: Highlight beach resorts, water sports, and peaceful surroundings.",
+
+  "hotel_language_add_turkey_header": "Welcoming Tourists from Turkey",
+  "hotel_language_add_turkey_title": "You’re taking the first step towards attracting Turkish tourists!",
+  "hotel_language_add_turkey_description": "Turkey — culturally rich and diverse. Turkish visitors enjoy history, nature, and modern amenities. Presenting your hotel in Turkish or English will attract them effectively.",
+  "hotel_language_add_turkey_tip": "Tip: Highlight local heritage, modern comforts, and beautiful landscapes.",
+
+  "hotel_language_add_uganda_header": "Welcoming Tourists from Uganda",
+  "hotel_language_add_uganda_title": "You’re taking the first step towards attracting Ugandan tourists!",
+  "hotel_language_add_uganda_description": "Uganda — diverse, cultural, and adventurous. Ugandan travelers seek wildlife, nature, and community. Presenting your hotel in English or Luganda will appeal to them.",
+  "hotel_language_add_uganda_tip": "Tip: Highlight safaris, local culture, and nature experiences.",
+
+  "hotel_language_add_ukraine_header": "Welcoming Tourists from Ukraine",
+  "hotel_language_add_ukraine_title": "You’re taking the first step towards attracting Ukrainian tourists!",
+  "hotel_language_add_ukraine_description": "Ukraine — full of history, nature, and warmth. Ukrainian travelers value local culture, comfort, and history. Presenting your hotel in Ukrainian or Russian will connect well with them.",
+  "hotel_language_add_ukraine_tip": "Tip: Highlight local heritage, hospitality, and modern amenities.",
+
+  "hotel_language_add_united_arab_emirates_header": "Welcoming Tourists from United Arab Emirates",
+  "hotel_language_add_united_arab_emirates_title": "You’re taking the first step towards attracting tourists from the United Arab Emirates!",
+  "hotel_language_add_united_arab_emirates_description": "United Arab Emirates — luxurious, modern, and sophisticated. UAE visitors appreciate comfort, luxury, and fine dining. Presenting your hotel in Arabic or English will appeal to them.",
+  "hotel_language_add_united_arab_emirates_tip": "Tip: Highlight luxury services, fine dining, and modern amenities.",
+
+  "hotel_language_add_united_kingdom_header": "Welcoming Tourists from the United Kingdom",
+  "hotel_language_add_united_kingdom_title": "You’re taking the first step towards attracting British tourists!",
+  "hotel_language_add_united_kingdom_description": "United Kingdom — sophisticated, cosmopolitan, and diverse. British travelers enjoy culture, good food, and modern comforts. Presenting your hotel in English will be the best fit for them.",
+  "hotel_language_add_united_kingdom_tip": "Tip: Highlight cultural activities, food, and comfort.",
+
+  "hotel_language_add_united_states_header": "Welcoming Tourists from the United States",
+  "hotel_language_add_united_states_title": "You’re taking the first step towards attracting American tourists!",
+  "hotel_language_add_united_states_description": "United States — diverse, modern, and adventurous. American visitors appreciate comfort, good service, and diverse activities. Presenting your hotel in English will be ideal for engaging them.",
+  "hotel_language_add_united_states_tip": "Tip: Highlight comfort, adventure activities, and diverse experiences.",
+
+  "hotel_language_add_uruguay_header": "Welcoming Tourists from Uruguay",
+  "hotel_language_add_uruguay_title": "You’re taking the first step towards attracting Uruguayan tourists!",
+  "hotel_language_add_uruguay_description": "Uruguay — laid-back, beachy, and cultural. Uruguayan travelers enjoy the beach, good food, and friendly environments. Presenting your hotel in Spanish or English will make them feel comfortable.",
+  "hotel_language_add_uruguay_tip": "Tip: Highlight beach access, local cuisine, and relaxed atmosphere.",
+
+  "hotel_language_add_uzbekistan_header": "Welcoming Tourists from Uzbekistan",
+  "hotel_language_add_uzbekistan_title": "You’re taking the first step towards attracting Uzbek tourists!",
+  "hotel_language_add_uzbekistan_description": "Uzbekistan — rich in culture and history. Uzbek visitors appreciate local traditions, fine food, and historical sites. Presenting your hotel in Uzbek or Russian will help you engage with them.",
+  "hotel_language_add_uzbekistan_tip": "Tip: Highlight cultural experiences, heritage sites, and local food.",
+
+  "hotel_language_add_vanuatu_header": "Welcoming Tourists from Vanuatu",
+  "hotel_language_add_vanuatu_title": "You’re taking the first step towards attracting Vanuatuan tourists!",
+  "hotel_language_add_vanuatu_description": "Vanuatu — tropical, nature-filled, and welcoming. Vanuatuan travelers appreciate simplicity, nature, and community. Presenting your hotel in English or French will connect you with them.",
+  "hotel_language_add_vanuatu_tip": "Tip: Highlight nature, simplicity, and friendly service.",
+
+  "hotel_language_add_vatican_city_header": "Welcoming Tourists from Vatican City",
+  "hotel_language_add_vatican_city_title": "You’re taking the first step towards attracting tourists from Vatican City!",
+  "hotel_language_add_vatican_city_description": "Vatican City — spiritual, historical, and cultural. Visitors from Vatican City appreciate calm surroundings, culture, and religious experiences. Presenting your hotel in Italian or English will appeal to them.",
+  "hotel_language_add_vatican_city_tip": "Tip: Highlight historical sites, spirituality, and calm environments.",
+
+  "hotel_language_add_venezuela_header": "Welcoming Tourists from Venezuela",
+  "hotel_language_add_venezuela_title": "You’re taking the first step towards attracting Venezuelan tourists!",
+  "hotel_language_add_venezuela_description": "Venezuela — vibrant and full of natural beauty. Venezuelan travelers love music, nature, and good food. Presenting your hotel in Spanish will be the best fit for them.",
+  "hotel_language_add_venezuela_tip": "Tip: Highlight music, nature, and local flavors.",
+
+  "hotel_language_add_vietnam_header": "Welcoming Tourists from Vietnam",
+  "hotel_language_add_vietnam_title": "You’re taking the first step towards attracting Vietnamese tourists!",
+  "hotel_language_add_vietnam_description": "Vietnam — rich in culture and natural beauty. Vietnamese travelers appreciate local food, culture, and natural landscapes. Presenting your hotel in Vietnamese or English will connect you with them.",
+  "hotel_language_add_vietnam_tip": "Tip: Highlight culture, food, and beautiful landscapes.",
+
+  "hotel_language_add_yemen_header": "Welcoming Tourists from Yemen",
+  "hotel_language_add_yemen_title": "You’re taking the first step towards attracting Yemeni tourists!",
+  "hotel_language_add_yemen_description": "Yemen — traditional and hospitable. Yemeni visitors appreciate respect, tradition, and cultural experiences. Presenting your hotel in Arabic will make them feel at home.",
+  "hotel_language_add_yemen_tip": "Tip: Highlight respect, cultural traditions, and warm hospitality.",
+
+  "hotel_language_add_zambia_header": "Welcoming Tourists from Zambia",
+  "hotel_language_add_zambia_title": "You’re taking the first step towards attracting Zambian tourists!",
+  "hotel_language_add_zambia_description": "Zambia — wildlife and adventure-focused. Zambian travelers enjoy safaris, nature, and community. Presenting your hotel in English will resonate well with them.",
+  "hotel_language_add_zambia_tip": "Tip: Highlight nature tours, safaris, and adventure activities.",
+
+  "hotel_language_add_zimbabwe_header": "Welcoming Tourists from Zimbabwe",
+  "hotel_language_add_zimbabwe_title": "You’re taking the first step towards attracting Zimbabwean tourists!",
+  "hotel_language_add_zimbabwe_description": "Zimbabwe — rich in wildlife and history. Zimbabwean travelers enjoy safaris, culture, and community. Presenting your hotel in English will help connect with them.",
+  "hotel_language_add_zimbabwe_tip": "Tip: Highlight safari experiences, culture, and wildlife conservation."
+}
+
+
